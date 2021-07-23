@@ -1,4 +1,4 @@
-﻿生成启动时间为 2021/7/23 12:13:53。
+﻿生成启动时间为 2021/7/23 15:52:45。
      1>项目“E:\编程\c语言\暑假作业\summer_day4\algorithm_4\algorithm_4\algorithm_4.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          D:\Program Files\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "求 unsigned int 型变量 x 在内存中二进制 1 的个数.c"
@@ -12,4 +12,4 @@
 
 生成成功。
 
-已用时间 00:00:00.38
+已用时间 00:00:00.91

@@ -13,7 +13,7 @@ int Number_1(int x)
 
 void main()
 {
-	int unsigned x;
+	unsigned int x;
 	scanf("%d", &x);
 	Number_1(x);
 	printf("x中1的个数为%d", Number_1(x));
